@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717446685315",
+    "project_id": "loginappok",
+    "storage_bucket": "loginappok.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717446685315:android:f51174259eb3e348e8f1b6",
+        "android_client_info": {
+          "package_name": "com.br.eustaquio.loginappok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWy0wzUhyBT7FnJ86j3YIhb1Wuv0NwXI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
